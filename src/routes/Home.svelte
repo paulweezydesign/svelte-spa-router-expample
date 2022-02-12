@@ -6,6 +6,8 @@
 </p>
 <p>
     <a href="#/lorem/2">Lorem ipsum</a>
+	<a href="#/about">About</a>
+	<a href="#/contact">Contact</a>
 </p>
 
 <style>
